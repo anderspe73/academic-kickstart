@@ -31,7 +31,6 @@ weight = 5
 
 # Biography
 
-
 Anders Eriksson is an Australian Research Council Future Fellow with the School of Electrical Engineering and Computer Science, Queensland University of Technology. 
 He received his Masters of Science degree in Electrical Engineering in 2000 and his PhD in Mathematics in 2008 from Lund University, Sweden. His research areas include 
 optimisation theory and numerical methods applied to the fields of computer vision and machine learning. 
