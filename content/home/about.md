@@ -31,10 +31,6 @@ weight = 5
 
 # Biography
 
-#Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-#Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
-
 
 Anders Eriksson is an Australian Research Council Future Fellow with the School of Electrical Engineering and Computer Science, Queensland University of Technology. 
 He received his Masters of Science degree in Electrical Engineering in 2000 and his PhD in Mathematics in 2008 from Lund University, Sweden. His research areas include 
