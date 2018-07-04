@@ -64,9 +64,6 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "anders.eriksson@qut.edu.au"
-
- GP-S1160, Phone: (+61) (07) 3138 5187, Emai
-
   address = "S Block, Office S1160, Gardens Point Campus, Brisbane, Australia"
   office_hours = ""
   phone = "+61 (07) 3138 5187"
