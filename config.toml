@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://eloquent-ardinghelli-166f01.netlify.com/"
 
 # Title of your site
 title = "Academic"
@@ -54,7 +54,7 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
+  name = "Anders Eriksson"
   role = "Professor of Artificial Intelligence"
 
   # Organizations/Affiliations.
