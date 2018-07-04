@@ -36,7 +36,7 @@ weight = 5
 #Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
 
 
-Anders Eriksson is an Australian Research Council Future Fellow at the School of Electrical Engineering and Computer Science, Queensland University of Technology. 
+Anders Eriksson is an Australian Research Council Future Fellow with the School of Electrical Engineering and Computer Science, Queensland University of Technology. 
 He received his Masters of Science degree in Electrical Engineering in 2000 and his PhD in Mathematics in 2008 from Lund University, Sweden. His research areas include 
 optimisation theory and numerical methods applied to the fields of computer vision and machine learning. 
 In 2010 his work on robust low-rank matrix approximation won the best paper award at the 23rd IEEE Conference on Computer Vision and Pattern Recognition, San Francisco, USA. 
