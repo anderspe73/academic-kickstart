@@ -6,7 +6,7 @@
 baseurl = "https://eloquent-ardinghelli-166f01.netlify.com/"
 
 # Title of your site
-title = "Academic"
+title = "Anders Eriksson"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -55,19 +55,22 @@ enableGitInfo = false
 
   # Your details.
   name = "Anders Eriksson"
-  role = "Professor of Artificial Intelligence"
+  role = "ARC Future Fellow"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "Queensland University of Technology", url = "https://www.qut.edu.au/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  email = "anders.eriksson@qut.edu.au"
+
+ GP-S1160, Phone: (+61) (07) 3138 5187, Emai
+
+  address = "S Block, Office S1160, Gardens Point Campus, Brisbane, Australia"
+  office_hours = ""
+  phone = "+61 (07) 3138 5187"
+  skype = "anderspe73"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
