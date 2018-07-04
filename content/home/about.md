@@ -14,7 +14,7 @@ weight = 5
 	"Optimization",
     "Artificial Intelligence",
 	"3D Geometry"
-  ]
+  ] 
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
